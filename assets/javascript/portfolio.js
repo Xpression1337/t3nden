@@ -38,7 +38,7 @@ $(document).ready(() => {
     app.shouldIgnoreVideo = true;
   }
 
-  app.titleChanger(['$T', '#t3', '#t3n', '#t3nD', 'T3nDe', 'T3nDen', 'T3nDen#5701']);
+  app.titleChanger(['$T', '#T3', '#T3n', '#T3nD', 'T3nDe', 'T3nDen', 'T3nDen#5701']);
   app.iconChanger(['assets/icons/roses/rose1.jpg', 'assets/icons/roses/rose2.jpg', 'assets/icons/roses/rose3.jpg', 'assets/icons/roses/rose4.jpg', 'assets/icons/roses/rose5.jpg', 'assets/icons/roses/rose6.jpg', 'assets/icons/roses/rose7.jpg', 'assets/icons/roses/rose8.jpg', 'assets/icons/roses/rose1.jpg']);
 });
 
